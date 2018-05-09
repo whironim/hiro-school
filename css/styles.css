@@ -7,39 +7,39 @@ Body {
 
 /** HEADER **/
 #header-nav {
-     background-color: #5c999a;
-     border-radius: 0;
-     border: 0;
+  background-color: #5c999a;
+  border-radius: 0;
+  border: 0;
 }
 
 #log-img {
-     background: url(‘../images/yaee-logo_large.png’) no-repeat;
-     width: 150px;
-     height: 150px;
-     margin 10px 15px 10px 0;
+  background: url(‘../images/yaee-logo_large.png’) no-repeat;
+  width: 150px;
+  height: 150px;
+  margin 10px 15px 10px 0;
 }
 
 .navbar-brand {
-     padding-top: 25px;
+  padding-top: 25px;
 }
 
 .navbar-brand h1 { /* School name */
-     font-family: 'Special Elite', cursive;
-     color: #000066;
-     font-size: 2em;
-     text-transform: uppercase;
-     font-weight: bold;
-     text-shadow 1px 1px 1px #222;
-     margin-top: 0;
-     margin-bottom: 0;
-     line-height: .75;
+  font-family: 'Special Elite', cursive;
+  color: #000066;
+  font-size: 2em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
 }
 .navbar-brand a:hover, .navbar-brand a:focus {
-     text-decoration: none;
+  text-decoration: none;
 }
 .navbar-brand p { /* School Motto */
-     color: #c4a61e;
-     text-transform: uppercase;
-     font-size: 1.25em;
-     margin-top: 15px;
+  color: #c4a61e;
+  text-transform: uppercase;
+  font-size: 1.25em;
+  margin-top: 15px;
 }
