@@ -18,3 +18,19 @@ Body {
   height: 200px;
   margin: 10px 15px 10px 0;
 }
+
+.navbar-brand {
+  padding-top: 25px;
+}
+
+.navbar-brand h1 { /* School Name */
+  font-family: 'Special Elite', cursive;
+  color: #000066;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
