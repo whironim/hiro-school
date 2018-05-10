@@ -8,6 +8,6 @@ Body {
 /** HEADER **/
 #header-nav {
   background-color: #8585ad;
-  /**border-radius: 0;
-  border: 0;**/
+  border-radius: 0;
+  border: 0;
 }
