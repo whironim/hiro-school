@@ -46,3 +46,20 @@ Body {
   margin-top: 9px;
   line-height: .7;
 }
+
+#nav-list {
+  margin-top: 40px;
+}
+
+#nav-list a {
+  color: #006080;
+  text-align: center;
+}
+
+#nav-list a:hover {
+  background: #8585ad;
+}
+
+#nav-list a span {
+  font-size: 1.8em;
+}
